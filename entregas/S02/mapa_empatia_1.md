@@ -9,7 +9,7 @@
 |Entrevistado (nombre o alias)|Anthony Gómez|
 |¿Por qué es usuario real del tema?| Es una persona que ha buscado empleo de jardinería, ha entregado currículums en varias empresas, preparado documentación y participado en entrevistas laborales.|
 |Fecha y duración|11-jul-2026 * 18min|
-||Evidencia (archivo en `entrevistas/`)|[Evidencia 1](entrevistas/Entrevista%20NO.1_1.jpeg)<br>[Evidencia 2](entrevistas/Entrevista%20NO.1_2.jpeg)<br>[Evidencia 3](entrevistas/Entrevista%20NO.1_3.jpeg)<br>[Evidencia 4](entrevistas/Entrevista%20NO.1_4.jpeg)<br>[Evidencia 5](entrevistas/Entrevista%20NO.1_5.jpeg)<br>[Evidencia 6](entrevistas/Entrevista%20NO.1_6.jpeg)||
+|Evidencia (archivo en `entrevistas/`)|[Evidencia 1](entrevistas/Entrevista%20NO.1_1.jpeg)<br>[Evidencia 2](entrevistas/Entrevista%20NO.1_2.jpeg)<br>[Evidencia 3](entrevistas/Entrevista%20NO.1_3.jpeg)<br>[Evidencia 4](entrevistas/Entrevista%20NO.1_4.jpeg)<br>[Evidencia 5](entrevistas/Entrevista%20NO.1_5.jpeg)<br>[Evidencia 6](entrevistas/Entrevista%20NO.1_6.jpeg)|
 
 ## 🗣️ DICE — lo que dijo en voz alta
 
