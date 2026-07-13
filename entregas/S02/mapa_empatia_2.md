@@ -9,7 +9,7 @@
 |Entrevistado (nombre o alias)|Leonardo Garcia|
 |¿Por qué es usuario real del tema?|Es una persona que ha buscado empleo en páginas de internet, enviado currículums de forma digital y presencial, participado en entrevistas y aceptado un trabajo diferente al área que estudió.|
 |Fecha y duración|12-jul-2026 * 12min|
-|Evidencia (archivo en `entrevistas/`)|`entrevistas/entrevista_2.md`|
+|Evidencia (archivo en `entrevistas/`)|[Evidencia 1](entrevistas/Entrevista%20NO.2_1.jpeg)<br>[Evidencia 2](entrevistas/Entrevista%20NO.2_2.jpeg)<br>[Evidencia 3](entrevistas/Entrevista%20NO.2_3.jpeg)<br>[Evidencia 4](entrevistas/Entrevista%20NO.2_4.jpeg)<br>[Evidencia 5](entrevistas/Entrevista%20NO.2_5.jpeg)<br>[Evidencia 6](entrevistas/Entrevista%20NO.2_6.jpeg)
 
 ## 🗣️ DICE — lo que dijo en voz alta
 
