@@ -1,9 +1,5 @@
 import 'package:flutter/material.dart';
 
-// ======================================================
-// COLORES DE LA APLICACIÓN
-// ======================================================
-
 const Color kAzulOscuro = Color(0xFF3561C2);
 const Color kAzulMedio = Color(0xFF3F7DD8);
 const Color kCeleste = Color(0xFF55A9EA);
@@ -19,17 +15,11 @@ const Color kTextoSecundario = Color(0xFF8190A5);
 
 const Color kBorde = Color(0xFFE2EAF5);
 
-// ======================================================
-// MAIN
-// ======================================================
 
 void main() {
   runApp(const MyApp());
 }
 
-// ======================================================
-// APLICACIÓN
-// ======================================================
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
@@ -55,9 +45,6 @@ class MyApp extends StatelessWidget {
   }
 }
 
-// ======================================================
-// PANTALLA PRINCIPAL
-// ======================================================
 
 class EmpleosPage extends StatelessWidget {
   const EmpleosPage({super.key});
@@ -66,16 +53,9 @@ class EmpleosPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: kFondo,
-
-      // ==================================================
-      // CUERPO
-      // ==================================================
-
       body: Container(
         width: double.infinity,
         height: double.infinity,
-
-        // Fondo azul de la parte superior
         decoration: const BoxDecoration(
           gradient: LinearGradient(
             begin: Alignment.topLeft,
@@ -93,10 +73,6 @@ class EmpleosPage extends StatelessWidget {
 
           child: Column(
             children: [
-
-              // ==================================================
-              // PARTE SUPERIOR
-              // ==================================================
 
               Padding(
                 padding: const EdgeInsets.fromLTRB(
@@ -237,9 +213,6 @@ class EmpleosPage extends StatelessWidget {
 
                   decoration: const BoxDecoration(
                     color: kFondo,
-
-                    // Las curvas comienzan desde los extremos
-                    // de la pantalla.
                     borderRadius: BorderRadius.only(
                       topLeft: Radius.circular(45),
                       topRight: Radius.circular(45),
@@ -250,11 +223,6 @@ class EmpleosPage extends StatelessWidget {
                     children: [
 
                       const SizedBox(height: 20),
-
-                      // ==============================================
-                      // TÍTULO
-                      // ==============================================
-
                       const Text(
                         'Empleos Disponibles',
                         style: TextStyle(
@@ -624,10 +592,6 @@ class MVLogo extends StatelessWidget {
 
           // ==================================================
           // LETRA V
-          // ==================================================
-          //
-          // La V está centrada sobre la M y baja
-          // hacia el centro, como en el boceto.
           // ==================================================
 
           Positioned(
