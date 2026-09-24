@@ -14,11 +14,11 @@ El botón Reiniciar regresa ambos marcadores a cero.
 
 ### Empate
 
-![Marcador en empate](Captura de pantalla 2026-09-24 120304.png)
+![Marcador en empate](capturas/empate.png)
 
 ### Equipo ganando
 
-![Equipo ganando](Captura de pantalla 2026-09-24 120110.png)
+![Equipo ganando](capturas/ganador.png)
 
 ## ¿Qué hace setState?
 
